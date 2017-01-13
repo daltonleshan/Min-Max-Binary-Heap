@@ -1,3 +1,5 @@
+/* Converts an array of intergers to minHeap in O(n)
+ */
 public class minHeap {
 
 	private int size;
